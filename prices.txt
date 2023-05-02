@@ -1,0 +1,7 @@
+200 Cappuccino
+150 Espresso
+100 Americano
+50 Water
+150 Nespresso OutOfBounds
+
+100 Test Coffee
